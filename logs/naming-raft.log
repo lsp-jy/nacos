@@ -1,0 +1,14 @@
+2020-07-12 22:30:40,678 INFO add task com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@providers:com.how2java.tmall.service.CategoryService:1.0-lsp
+
+2020-07-12 22:30:40,678 INFO remove task com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@providers:com.how2java.tmall.service.CategoryService:1.0-lsp
+
+2020-07-12 22:30:40,678 INFO [RAFT-NOTIFIER] datum is deleted, key: com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@providers:com.how2java.tmall.service.CategoryService:1.0-lsp
+
+2020-07-12 22:30:40,679 INFO data removed, key=com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@providers:com.how2java.tmall.service.CategoryService:1.0-lsp, term=0
+
+2020-07-12 22:30:40,679 INFO add task com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@providers:com.how2java.tmall.service.CategoryService:1.0-lsp
+
+2020-07-12 22:30:40,679 INFO data removed, key=com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@providers:com.how2java.tmall.service.CategoryService:1.0-lsp, term=0
+
+2020-07-12 22:30:40,679 INFO remove task com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@providers:com.how2java.tmall.service.CategoryService:1.0-lsp
+

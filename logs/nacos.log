@@ -1,0 +1,78 @@
+2020-07-13 00:05:22,001 INFO [capacityManagement] start correct usage
+
+2020-07-13 00:05:22,003 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-07-13 00:05:23,446 WARN clearConfigHistory start
+
+2020-07-13 00:15:22,009 INFO [capacityManagement] start correct usage
+
+2020-07-13 00:15:22,009 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-07-13 00:15:23,453 WARN clearConfigHistory start
+
+2020-07-13 00:25:22,016 INFO [capacityManagement] start correct usage
+
+2020-07-13 00:25:22,016 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-07-13 00:25:23,464 WARN clearConfigHistory start
+
+2020-07-13 00:35:22,030 INFO [capacityManagement] start correct usage
+
+2020-07-13 00:35:22,031 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-07-13 00:35:23,471 WARN clearConfigHistory start
+
+2020-07-13 00:45:22,034 INFO [capacityManagement] start correct usage
+
+2020-07-13 00:45:22,035 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-07-13 00:45:23,471 WARN clearConfigHistory start
+
+2020-07-13 00:55:22,043 INFO [capacityManagement] start correct usage
+
+2020-07-13 00:55:22,044 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-07-13 00:55:23,477 WARN clearConfigHistory start
+
+2020-07-13 01:05:22,049 INFO [capacityManagement] start correct usage
+
+2020-07-13 01:05:22,050 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-07-13 01:05:23,488 WARN clearConfigHistory start
+
+2020-07-13 01:15:22,060 INFO [capacityManagement] start correct usage
+
+2020-07-13 01:15:22,060 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-07-13 01:15:23,499 WARN clearConfigHistory start
+
+2020-07-13 01:25:22,074 INFO [capacityManagement] start correct usage
+
+2020-07-13 01:25:22,075 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-07-13 01:25:23,506 WARN clearConfigHistory start
+
+2020-07-13 01:39:12,077 WARN HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=10m49s145ms).
+
+2020-07-13 03:17:35,327 WARN HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h38m23s250ms).
+
+2020-07-13 05:05:27,099 WARN HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h47m51s772ms).
+
+2020-07-13 06:49:24,743 WARN HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h43m27s659ms).
+
+2020-07-13 07:43:56,695 WARN HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=54m31s952ms).
+
+2020-07-13 07:44:25,779 WARN [NotifyCenter] Start destroying Publisher
+
+2020-07-13 07:44:25,779 WARN [ThreadPoolManager] Start destroying ThreadPool
+
+2020-07-13 07:44:25,780 WARN [HttpClientManager] Start destroying HttpClient
+
+2020-07-13 07:44:25,780 WARN [NotifyCenter] Destruction of the end
+
+2020-07-13 07:44:25,783 WARN [HttpClientManager] Destruction of the end
+
+2020-07-13 07:44:25,789 INFO Shutting down ExecutorService 'taskScheduler'
+
+2020-07-13 07:44:25,793 INFO Shutting down ExecutorService 'applicationTaskExecutor'
+

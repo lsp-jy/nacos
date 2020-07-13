@@ -1,0 +1,4 @@
+2020-07-12 22:28:32,736 INFO DEFAULT_GROUP@@providers:com.how2java.tmall.service.CategoryService:1.0-lsp {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [198.18.37.25:20880:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-07-12 22:28:32,736 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@providers:com.how2java.tmall.service.CategoryService:1.0-lsp, ips: 
+

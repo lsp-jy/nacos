@@ -1,0 +1,4 @@
+2020-07-13 07:44:25,799 INFO ThreadPool is terminated: JRaft-RPC-Processor, com.alipay.sofa.jraft.util.MetricThreadPoolExecutor@5a06a4a7[Shutting down, pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 0].
+
+2020-07-13 07:44:25,800 INFO ThreadPool is terminated: JRaft-RPC-Processor, com.alipay.sofa.jraft.util.MetricThreadPoolExecutor@7cd02e3a[Shutting down, pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 0].
+

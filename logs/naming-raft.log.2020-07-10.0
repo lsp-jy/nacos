@@ -1,0 +1,150 @@
+2020-07-10 14:10:07,767 INFO raft peers changed: [Member{address='192.168.251.2:8848'}]
+
+2020-07-10 14:10:07,880 INFO initializing Raft sub-system
+
+2020-07-10 14:10:07,880 INFO raft notifier started
+
+2020-07-10 14:10:07,881 INFO finish loading all datums, size: 0 cost 1 ms.
+
+2020-07-10 14:10:07,883 INFO cache loaded, datum count: 0, current term: 0
+
+2020-07-10 14:10:07,883 INFO finish to load data from disk, cost: 3 ms.
+
+2020-07-10 14:10:07,886 INFO timer started: leader timeout ms: 15000, heart-beat timeout ms: 5000
+
+2020-07-10 14:10:08,612 INFO add listener: com.alibaba.nacos.naming.domains.meta.00-00---000-NACOS_SWITCH_DOMAIN-000---00-00
+
+2020-07-10 14:10:08,625 INFO add listener: com.alibaba.nacos.naming.domains.meta.
+
+2020-07-10 14:23:55,951 INFO raft peers changed: [Member{address='192.168.251.2:8848'}]
+
+2020-07-10 14:23:56,051 INFO initializing Raft sub-system
+
+2020-07-10 14:23:56,051 INFO raft notifier started
+
+2020-07-10 14:23:56,052 INFO finish loading all datums, size: 0 cost 1 ms.
+
+2020-07-10 14:23:56,053 INFO cache loaded, datum count: 0, current term: 0
+
+2020-07-10 14:23:56,054 INFO finish to load data from disk, cost: 3 ms.
+
+2020-07-10 14:23:56,056 INFO timer started: leader timeout ms: 15000, heart-beat timeout ms: 5000
+
+2020-07-10 14:23:56,742 INFO add listener: com.alibaba.nacos.naming.domains.meta.00-00---000-NACOS_SWITCH_DOMAIN-000---00-00
+
+2020-07-10 14:23:56,754 INFO add listener: com.alibaba.nacos.naming.domains.meta.
+
+2020-07-10 16:58:37,919 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@providers:com.how2java.tmall.service.CategoryService
+
+2020-07-10 17:28:26,399 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@consumers:com.how2java.tmall.service.CategoryService
+
+2020-07-10 17:30:39,418 INFO add task com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@consumers:com.how2java.tmall.service.CategoryService
+
+2020-07-10 17:30:39,418 INFO remove task com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@consumers:com.how2java.tmall.service.CategoryService
+
+2020-07-10 17:30:39,418 INFO [RAFT-NOTIFIER] datum is deleted, key: com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@consumers:com.how2java.tmall.service.CategoryService
+
+2020-07-10 17:30:39,419 INFO data removed, key=com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@consumers:com.how2java.tmall.service.CategoryService, term=0
+
+2020-07-10 17:30:39,420 INFO add task com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@consumers:com.how2java.tmall.service.CategoryService
+
+2020-07-10 17:30:39,420 INFO data removed, key=com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@consumers:com.how2java.tmall.service.CategoryService, term=0
+
+2020-07-10 17:30:39,437 INFO remove task com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@consumers:com.how2java.tmall.service.CategoryService
+
+2020-07-10 17:35:20,282 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@consumers:com.how2java.tmall.service.CategoryService
+
+2020-07-10 17:37:39,424 INFO add task com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@consumers:com.how2java.tmall.service.CategoryService
+
+2020-07-10 17:37:39,424 INFO remove task com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@consumers:com.how2java.tmall.service.CategoryService
+
+2020-07-10 17:37:39,424 INFO [RAFT-NOTIFIER] datum is deleted, key: com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@consumers:com.how2java.tmall.service.CategoryService
+
+2020-07-10 17:37:39,424 INFO data removed, key=com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@consumers:com.how2java.tmall.service.CategoryService, term=0
+
+2020-07-10 17:37:39,424 INFO add task com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@consumers:com.how2java.tmall.service.CategoryService
+
+2020-07-10 17:37:39,424 INFO data removed, key=com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@consumers:com.how2java.tmall.service.CategoryService, term=0
+
+2020-07-10 17:37:39,425 INFO add task com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@providers:com.how2java.tmall.service.CategoryService
+
+2020-07-10 17:37:39,425 INFO remove task com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@consumers:com.how2java.tmall.service.CategoryService
+
+2020-07-10 17:37:39,425 INFO remove task com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@providers:com.how2java.tmall.service.CategoryService
+
+2020-07-10 17:37:39,425 INFO [RAFT-NOTIFIER] datum is deleted, key: com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@providers:com.how2java.tmall.service.CategoryService
+
+2020-07-10 17:37:39,425 INFO data removed, key=com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@providers:com.how2java.tmall.service.CategoryService, term=0
+
+2020-07-10 17:37:39,425 INFO add task com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@providers:com.how2java.tmall.service.CategoryService
+
+2020-07-10 17:37:39,425 INFO data removed, key=com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@providers:com.how2java.tmall.service.CategoryService, term=0
+
+2020-07-10 17:37:39,425 INFO remove task com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@providers:com.how2java.tmall.service.CategoryService
+
+2020-07-10 17:42:44,185 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@consumers:com.how2java.tmall.service.CategoryService
+
+2020-07-10 17:45:09,430 INFO add task com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@consumers:com.how2java.tmall.service.CategoryService
+
+2020-07-10 17:45:09,431 INFO remove task com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@consumers:com.how2java.tmall.service.CategoryService
+
+2020-07-10 17:45:09,431 INFO [RAFT-NOTIFIER] datum is deleted, key: com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@consumers:com.how2java.tmall.service.CategoryService
+
+2020-07-10 17:45:09,432 INFO data removed, key=com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@consumers:com.how2java.tmall.service.CategoryService, term=0
+
+2020-07-10 17:45:09,432 INFO add task com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@consumers:com.how2java.tmall.service.CategoryService
+
+2020-07-10 17:45:09,432 INFO data removed, key=com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@consumers:com.how2java.tmall.service.CategoryService, term=0
+
+2020-07-10 17:45:09,433 INFO remove task com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@consumers:com.how2java.tmall.service.CategoryService
+
+2020-07-10 17:49:53,937 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@consumers:com.how2java.tmall.service.CategoryService
+
+2020-07-10 17:52:09,436 INFO add task com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@consumers:com.how2java.tmall.service.CategoryService
+
+2020-07-10 17:52:09,436 INFO remove task com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@consumers:com.how2java.tmall.service.CategoryService
+
+2020-07-10 17:52:09,436 INFO [RAFT-NOTIFIER] datum is deleted, key: com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@consumers:com.how2java.tmall.service.CategoryService
+
+2020-07-10 17:52:09,436 INFO data removed, key=com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@consumers:com.how2java.tmall.service.CategoryService, term=0
+
+2020-07-10 17:52:09,436 INFO add task com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@consumers:com.how2java.tmall.service.CategoryService
+
+2020-07-10 17:52:09,436 INFO data removed, key=com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@consumers:com.how2java.tmall.service.CategoryService, term=0
+
+2020-07-10 17:52:09,437 INFO remove task com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@consumers:com.how2java.tmall.service.CategoryService
+
+2020-07-10 18:31:23,243 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@consumers:com.how2java.tmall.service.CategoryService
+
+2020-07-10 18:33:39,466 INFO add task com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@consumers:com.how2java.tmall.service.CategoryService
+
+2020-07-10 18:33:39,466 INFO remove task com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@consumers:com.how2java.tmall.service.CategoryService
+
+2020-07-10 18:33:39,466 INFO [RAFT-NOTIFIER] datum is deleted, key: com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@consumers:com.how2java.tmall.service.CategoryService
+
+2020-07-10 18:33:39,467 INFO data removed, key=com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@consumers:com.how2java.tmall.service.CategoryService, term=0
+
+2020-07-10 18:33:39,467 INFO add task com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@consumers:com.how2java.tmall.service.CategoryService
+
+2020-07-10 18:33:39,468 INFO data removed, key=com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@consumers:com.how2java.tmall.service.CategoryService, term=0
+
+2020-07-10 18:33:39,468 INFO remove task com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@consumers:com.how2java.tmall.service.CategoryService
+
+2020-07-10 18:34:25,915 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@providers:com.how2java.tmall.service.CategoryService:1.0
+
+2020-07-10 18:35:48,509 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@providers:com.how2java.tmall.service.CategoryService:1.0-lsp
+
+2020-07-10 18:37:39,468 INFO add task com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@providers:com.how2java.tmall.service.CategoryService:1.0
+
+2020-07-10 18:37:39,468 INFO remove task com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@providers:com.how2java.tmall.service.CategoryService:1.0
+
+2020-07-10 18:37:39,468 INFO [RAFT-NOTIFIER] datum is deleted, key: com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@providers:com.how2java.tmall.service.CategoryService:1.0
+
+2020-07-10 18:37:39,468 INFO data removed, key=com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@providers:com.how2java.tmall.service.CategoryService:1.0, term=0
+
+2020-07-10 18:37:39,469 INFO add task com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@providers:com.how2java.tmall.service.CategoryService:1.0
+
+2020-07-10 18:37:39,469 INFO data removed, key=com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@providers:com.how2java.tmall.service.CategoryService:1.0, term=0
+
+2020-07-10 18:37:39,469 INFO remove task com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@providers:com.how2java.tmall.service.CategoryService:1.0
+

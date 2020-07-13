@@ -1,0 +1,6 @@
+2020-07-12 22:28:32,736 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@providers:com.how2java.tmall.service.CategoryService:1.0-lsp, value: {"instanceList":[]}
+
+2020-07-12 22:30:40,678 WARN namespace : public, [DEFAULT_GROUP@@providers:com.how2java.tmall.service.CategoryService:1.0-lsp] services are automatically cleaned
+
+2020-07-12 22:30:40,679 INFO [DEAD-SERVICE] {"appName":"","checksum":"0e2cafd73680a69e18dceac3abd5787b","clusterMap":{"DEFAULT":{"defCkport":80,"defIPPort":80,"defaultCheckPort":80,"defaultPort":80,"empty":true,"healthCheckTask":{"cancelled":true,"checkRTBest":9223372036854775807,"checkRTLast":-1,"checkRTLastLast":-1,"checkRTNormalized":3624,"checkRTWorst":0,"cluster":{"$ref":".."},"startTime":1594564238112},"healthChecker":{"type":"TCP"},"metadata":{},"name":"DEFAULT","serviceName":"DEFAULT_GROUP@@providers:com.how2java.tmall.service.CategoryService:1.0-lsp","sitegroup":"","useIPPort4Check":true}},"empty":true,"enabled":true,"finalizeCount":5,"groupName":"DEFAULT_GROUP","ipDeleteTimeout":30000,"lastModifiedMillis":1594564112736,"metadata":{},"name":"DEFAULT_GROUP@@providers:com.how2java.tmall.service.CategoryService:1.0-lsp","namespaceId":"public","owners":[],"protectThreshold":0.0,"resetWeight":false,"selector":{"type":"none"},"token":""}
+
